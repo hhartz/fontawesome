@@ -5,5 +5,6 @@
         <file>FAButton.qml</file>
         <file>FAIcons.js</file>
         <file>fontawesome-webfont.ttf</file>
+        <file>Gallery.qml</file>
     </qresource>
 </RCC>
