@@ -1,5 +1,5 @@
 {
-  "name": "com.cutehacks.fontawesome-qml",
+  "name": "com.cutehacks.fontawesome",
   "description": "",
   "author": {
     "name": "Henrik Hartz",
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "GITHUB",
-    "url": "https://github.com/hhartz/fontawesome-qml"
+    "url": "hhartz/fontawesome"
   },
   "version": {
     "label": "0.0.1",
@@ -17,5 +17,5 @@
   "dependencies": [
   ],
   "license": "MIT",
-  "pri_filename": "com_cutehacks_fontawesome-qml.pri"
+  "pri_filename": "com_cutehacks_fontawesome.pri"
 }

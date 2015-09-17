@@ -1,0 +1,6 @@
+
+<RCC>
+    <qresource prefix="com/cutehacks/fontawesome">
+        <file>qmldir</file>
+    </qresource>
+</RCC>
