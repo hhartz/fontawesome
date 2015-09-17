@@ -1,6 +1,6 @@
 {
   "name": "com.cutehacks.fontawesome",
-  "description": "",
+  "description": "FontAwesome for QML. Provides icon enums and simple Text/Button wrapper",
   "author": {
     "name": "Henrik Hartz",
     "email": "henrik@cutehacks.com"
