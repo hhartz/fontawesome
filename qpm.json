@@ -1,0 +1,21 @@
+{
+  "name": "com.cutehacks.fontawesome-qml",
+  "description": "",
+  "author": {
+    "name": "Henrik Hartz",
+    "email": "henrik@cutehacks.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": ""
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "\u003cinsert SHA1 or tag\u003e",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "com_cutehacks_fontawesome-qml.pri"
+}

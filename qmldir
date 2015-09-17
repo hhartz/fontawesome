@@ -1,0 +1,5 @@
+module com.cutehacks.fontawesome-qml
+FAText 1.0 qml/FAText.qml
+FAIcons 1.0 js/FAIcons.js
+Gallery 1.0 qml/Gallery.qml
+FAButton 1.0 qml/FAButton.qml
