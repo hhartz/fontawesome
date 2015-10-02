@@ -7,12 +7,10 @@
   },
   "repository": {
     "type": "GITHUB",
-    "url": "hhartz/fontawesome"
+    "url": "https://github.com/hhartz/fontawesome.git"
   },
   "version": {
     "label": "0.0.1",
-    "revision": "\u003cinsert SHA1 or tag\u003e",
-    "fingerprint": ""
   },
   "dependencies": [
   ],
