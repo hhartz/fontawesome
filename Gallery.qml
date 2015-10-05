@@ -10,6 +10,9 @@ Rectangle {
     Flickable {
         anchors.fill: parent
         contentHeight: gallery.childrenRect.height
+        FAText {
+            id: faketext
+        }
 
         Flow {
             id: gallery
@@ -18,20 +21,21 @@ Rectangle {
             spacing: 15
 
             Repeater {
-                model: Object.keys(FAIcons.Icon).length
+
+                model: Object.keys(faketext.icons).length
 
                 delegate: Item {
                     width: 75
                     height: 75
                     FAText {
                         font.pointSize: 48
-                        text: FAIcons.Icon[Object.keys(FAIcons.Icon)[index]]
+                        text: icons[Object.keys(icons)[index]]
 anchors.centerIn: parent
                     }
                     Text {
                         anchors.bottom: parent.bottom
                         font.pixelSize: 16
-                        text: Object.keys(FAIcons.Icon)[index]
+                        text: Object.keys(faketext.icons)[index]
                         horizontalAlignment: Text.AlignHCenter
                     }
                 }
